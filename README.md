@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillermo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<img src="" align="center" alt="guillermo header image">
+<img src="https://raw.githubusercontent.com/GuillermoAliagaDev/GuillermoAliagaDev/refs/heads/main/assets/header.png" align="center" alt="guillermo header image">
 
 -------------------
 &emsp;
