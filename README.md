@@ -1,94 +1,106 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Guillermo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<img src="https://raw.githubusercontent.com/GuillermoAliagaDev/GuillermoAliagaDev/refs/heads/main/assets/header.png" align="center" alt="guillermo header image">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GuillermoAliagaDev/GuillermoAliagaDev/refs/heads/main/assets/header.png" alt="guillermo header image" width="100%">
+</p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width = 350px></picture>
-
-<br><br>
-
-- :school: I am a `Student` at [Institute San Ignoacio Loyola](https://isil.pe/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I belong to a `new generation` of programmers `strengthened` by `AI`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY PORTOLIO](https://guillermoaliaga.vercel.app/).
+<details open>
+<summary><b><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"> About Me</b></summary>
 <br>
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="180px">
 
-&emsp;
-## 😎 Connect with me 
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/guillermo-aliaga-matencio/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="guille" height="30" width="40" /></a>
-<a href="https://guillermoaliaga.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/331784/web-sites.svg" alt="guille" height="30" width="40" /></a>
-<a href="https://www.instagram.com/guixxe.aliaga/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="guille" height="30" width="40" /></a>
-<a href="https://github.com/GuillermoAliagaDev/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349375/github.svg" alt="guille" height="30" width="40" /></a>
+- 🏫 I am a `Student` at [Institute San Ignacio Loyola](https://isil.pe/).
+- 🚀 I love using Software as a solution for every `Problem`.
+- 🤖 I belong to a `new generation` of programmers `strengthened` by `AI`.
+- 📚 I’m currently learning `Computer Science` and `Software Engineering`.
+- 🧠 Always `learning new things`.
+- 💼 I’m currently open for a new `job opportunity`, this is [MY PORTFOLIO](https://guillermoaliaga.vercel.app/).
+<br><br>
+</details>
+
+<hr>
+
+<details>
+<summary><b>😎 Connect with me</b></summary>
+<p align="center">
+<br>
+  <a href="https://www.linkedin.com/in/guillermo-aliaga-matencio/" target="_blank"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="https://guillermoaliaga.vercel.app/" target="_blank"><img src="https://www.svgrepo.com/show/331784/web-sites.svg" alt="website" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/guixxe.aliaga/" target="_blank"><img src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="instagram" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/GuillermoAliagaDev/" target="_blank"><img src="https://www.svgrepo.com/show/349375/github.svg" alt="github" height="35" width="35" /></a>
 </p>
 <br>
-&emsp;
+</details>
 
-## 🛠️ My Skills
-### Programming languages:
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
-### Frontend development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+<hr>
 
-### Services & Frameworks: 
-&emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
+<details>
+<summary><b>🛠️ My Tech Stack</b></summary>
+<br>
 
+<h3 align="center">🚀 Programming Languages</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+</p>
 
-### Databases:
-&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+<h3 align="center">🎨 Frontend Development</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
+</p>
 
-### SRE & DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
+<h3 align="center">⚙️ Services & Frameworks</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+</p>
 
+<h3 align="center">🗄️ Databases</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TablePlus-2DA1F8?style=for-the-badge&logo=tableplus&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Management-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</p>
+
+<h3 align="center">☁️ SRE & DevOps</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
+
+<h3 align="center">🛠️ Misc Tools</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Warp-011421?style=for-the-badge&logo=warp&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ClickUp-FF00DF?style=for-the-badge&logo=ClickUp&logoColor=white">
+</p>
+</details>
