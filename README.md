@@ -26,7 +26,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details> 
-<summary><b><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyMTUwMzYsIm5iZiI6MTc3MzIxNDczNiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzExVDA3Mzg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzZGNjZWNjOWQ0NGZiZDE2NjQyMzk2MGVjNWE4ZjMyNGM0Y2I1OWRkMGUwOGY0ZmUwMmVjYjgwMWY2NTEyZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cGqm4DCC2m7WRbzxWhlzPiAlXCYO7yBD6EP3--hO2Zk" width="25px"> Connect With Me</b></summary>
+<summary><b><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22px"> Connect With Me</b></summary>
 <p align="center">
 <br>
   <a href="https://www.linkedin.com/in/guillermo-aliaga-matencio/" target="_blank"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>&nbsp;&nbsp;
@@ -39,8 +39,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="My 3D Contributions">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <details>
-<summary><b><img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyMTUwMzYsIm5iZiI6MTc3MzIxNDczNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzExVDA3Mzg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmYTZmMjcxNzU0MDIzY2NjZGU0NjIyMWU1NTg0ZmRmNjc3MzhlY2UzMGQwZDQ1NjVhOThhY2Y1ZDEzMmUyY2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kYHNLpNhPYwlz3vufEJ-DFBiFqbWSXUJrd_aHNuVUUU" width="25px"> My Tech Stack</b></summary>
+<summary><b><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="22px"> My Tech Stack</b></summary>
 <br>
 
 <h3 align="center">🚀 Programming Languages</h3>
