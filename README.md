@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:02f145,25:11afaf,50:0040ff,75:5000e6,100:00efa0&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:02f145,25:11afaf,50:0040ff,75:5000e6,100:00efa0&reversal=true" width="100%"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <details open>
 <summary><b><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"> About Me</b></summary>
 <br>
-<img align="right" src="https://raw.githubusercontent.com/GuillermoAliagaDev/GuillermoAliagaDev/refs/heads/main/assets/space.gif" width="260px" height="">
+<img align="right" src="https://raw.githubusercontent.com/GuillermoAliagaDev/GuillermoAliagaDev/refs/heads/main/assets/man.gif" width="260px" height="">
 
 - 🏫 I am a `Student` at [Institute San Ignacio Loyola](https://isil.pe/).
 - 🚀 I love using Software as a solution for every `Problem`.
@@ -22,26 +22,6 @@
 - ☕ `Java` lover.
 <br><br>
 </details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<details> 
-<summary><b><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22px"> Connect With Me</b></summary>
-<p align="center">
-<br>
-  <a href="https://www.linkedin.com/in/guillermo-aliaga-matencio/" target="_blank"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>&nbsp;&nbsp;
-  <a href="https://guillermoaliaga.vercel.app/" target="_blank"><img src="https://www.svgrepo.com/show/331784/web-sites.svg" alt="website" height="35" width="35" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/guixxe.aliaga/" target="_blank"><img src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="instagram" height="35" width="35" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/GuillermoAliagaDev/" target="_blank"><img src="https://www.svgrepo.com/show/349375/github.svg" alt="github" height="35" width="35" /></a>
-</p>
-<br>
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="My 3D Contributions">
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -116,6 +96,30 @@
   <img src="https://img.shields.io/badge/ClickUp-FF00DF?style=for-the-badge&logo=ClickUp&logoColor=white">
 </p>
 </details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details>
+<summary><b><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="22px"> Git Activeness</b></summary>
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="My 3D Contributions">
+</p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details> 
+<summary><b><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22px"> Connect With Me</b></summary>
+<p align="center">
+<br>
+  <a href="https://www.linkedin.com/in/guillermo-aliaga-matencio/" target="_blank"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="https://guillermoaliaga.vercel.app/" target="_blank"><img src="https://www.svgrepo.com/show/331784/web-sites.svg" alt="website" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/guixxe.aliaga/" target="_blank"><img src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="instagram" height="35" width="35" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/GuillermoAliagaDev/" target="_blank"><img src="https://www.svgrepo.com/show/349375/github.svg" alt="github" height="35" width="35" /></a>
+</p>
+<br>
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
