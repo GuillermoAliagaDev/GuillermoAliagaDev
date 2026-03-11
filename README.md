@@ -1,27 +1,32 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Guillermo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:02f145,25:11afaf,50:0040ff,75:5000e6,100:00efa0&reversal=true" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GuillermoAliagaDev/GuillermoAliagaDev/refs/heads/main/assets/header.png" alt="guillermo header image" width="100%">
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details open>
 <summary><b><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"> About Me</b></summary>
 <br>
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="180px">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250px" height="">
 
 - 🏫 I am a `Student` at [Institute San Ignacio Loyola](https://isil.pe/).
 - 🚀 I love using Software as a solution for every `Problem`.
 - 🤖 I belong to a `new generation` of programmers `strengthened` by `AI`.
-- 📚 I’m currently learning `Computer Science` and `Software Engineering`.
-- 🧠 Always `learning new things`.
+- 📚 I’m currently learning `Software Engineering`.
+- 🧠 A perpetual student of `technology`, building tomorrow's web `today`. 
 - 💼 I’m currently open for a new `job opportunity`, this is [MY PORTFOLIO](https://guillermoaliaga.vercel.app/).
+- 🖤 I don't just `solve problems`; I live for the `'Aha!'` moment when everything clicks.
+- ☕ `Java` lover.
 <br><br>
 </details>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>
-<summary><b>😎 Connect with me</b></summary>
+<details> 
+<summary><b><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyMTUwMzYsIm5iZiI6MTc3MzIxNDczNiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzExVDA3Mzg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzZGNjZWNjOWQ0NGZiZDE2NjQyMzk2MGVjNWE4ZjMyNGM0Y2I1OWRkMGUwOGY0ZmUwMmVjYjgwMWY2NTEyZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cGqm4DCC2m7WRbzxWhlzPiAlXCYO7yBD6EP3--hO2Zk" width="25px"> Connect With Me</b></summary>
 <p align="center">
 <br>
   <a href="https://www.linkedin.com/in/guillermo-aliaga-matencio/" target="_blank"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>&nbsp;&nbsp;
@@ -32,10 +37,10 @@
 <br>
 </details>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
-<summary><b>🛠️ My Tech Stack</b></summary>
+<summary><b><img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyMTUwMzYsIm5iZiI6MTc3MzIxNDczNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzExVDA3Mzg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmYTZmMjcxNzU0MDIzY2NjZGU0NjIyMWU1NTg0ZmRmNjc3MzhlY2UzMGQwZDQ1NjVhOThhY2Y1ZDEzMmUyY2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kYHNLpNhPYwlz3vufEJ-DFBiFqbWSXUJrd_aHNuVUUU" width="25px"> My Tech Stack</b></summary>
 <br>
 
 <h3 align="center">🚀 Programming Languages</h3>
@@ -45,7 +50,8 @@
   <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </p>
 
 <h3 align="center">🎨 Frontend Development</h3>
@@ -104,3 +110,12 @@
   <img src="https://img.shields.io/badge/ClickUp-FF00DF?style=for-the-badge&logo=ClickUp&logoColor=white">
 </p>
 </details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+</div>
