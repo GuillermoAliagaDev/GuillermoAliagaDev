@@ -10,7 +10,7 @@
 <details open>
 <summary><b><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"> About Me</b></summary>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250px" height="">
+<img align="right" src="https://raw.githubusercontent.com/GuillermoAliagaDev/GuillermoAliagaDev/refs/heads/main/assets/space.gif" width="260px" height="">
 
 - 🏫 I am a `Student` at [Institute San Ignacio Loyola](https://isil.pe/).
 - 🚀 I love using Software as a solution for every `Problem`.
