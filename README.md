@@ -7,7 +7,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details open>
+<details>
 <summary><b><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"> About Me</b></summary>
 <br>
 <img align="right" src="https://raw.githubusercontent.com/GuillermoAliagaDev/GuillermoAliagaDev/refs/heads/main/assets/man.gif" width="260px" height="">
